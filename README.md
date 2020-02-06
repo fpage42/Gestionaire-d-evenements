@@ -1,4 +1,4 @@
-# Gestionaire-d'evenements
+# Gestionaire d'evenements
 
 Projet realisé pendant mon stage à la médiathèque Nelson mandela à Créteil en 2016.
 
