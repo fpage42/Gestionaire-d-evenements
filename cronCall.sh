@@ -1,0 +1,1 @@
+php -e -r 'include "/var/www/html/evenement/cronMail.php";'
